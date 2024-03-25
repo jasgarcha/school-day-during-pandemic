@@ -4,17 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb349002-a9c2-47eb-97b9-2011c62c6a48" name="Changes" comment="" />
+    <list default="true" id="fb349002-a9c2-47eb-97b9-2011c62c6a48" name="Changes" comment="Initial project structure.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Auditorium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Restroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SchoolDayDuringCOVID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Schoolyard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jasgarcha"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0e5cfe35-31ee-4087-9e7a-6ffb8b770422" />
+        <option name="url" value="https://github.com/jasgarcha/school-day-during-pandemic.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2e9x7hWYKTnmhBZkbZKduvpjRnU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,9 +54,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jas\Desktop\GitHub\school-day-during-pandemic\src\main\java" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711330431643</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial project structure.">
+      <option name="closed" value="true" />
+      <created>1711330605037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711330605037</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial project structure." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial project structure." />
   </component>
 </project>
