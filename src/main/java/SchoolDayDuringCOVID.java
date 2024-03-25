@@ -1,8 +1,5 @@
 /**
  * @author Jasminder Garcha (CUNY ID: 23109141)
- * CS340 - Operating System Principles, Fall 2020. Instructor: Dr. Simina Fluture
- * Project 1: A School Day During COVID
- * 11/15/2020
  */
 public class SchoolDayDuringCOVID {
 	public static final School PS1111 = new School(); //PS1111. The school both students and teacher attend (Student and Teacher threads access) following a hybrid teaching regimen.
