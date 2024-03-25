@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb349002-a9c2-47eb-97b9-2011c62c6a48" name="Changes" comment="Initial project structure.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Auditorium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Classroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Restroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SchoolDayDuringCOVID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Schoolyard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher.java" afterDir="false" />
+    <list default="true" id="fb349002-a9c2-47eb-97b9-2011c62c6a48" name="Changes" comment="All source files.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +74,20 @@
       <option name="project" value="LOCAL" />
       <updated>1711330605037</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All source files.">
+      <option name="closed" value="true" />
+      <created>1711330714457</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711330714457</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial project structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial project structure." />
+    <MESSAGE value="All source files." />
+    <option name="LAST_COMMIT_MESSAGE" value="All source files." />
   </component>
 </project>
