@@ -1,14 +1,14 @@
 # school-day-during-pandemic
 
 Synchronize the students and teacher threads (without the use of semaphores).
+This project demonstrates my familiarity with the `volatile` modifier, `Atomic` classes, and the `Threads` class--fundamental Operating System concepts.
 
+## Usage
 Arguments:
 
 `-s, --students`: The number of students as a positive integer. 
 
 If no arguments are provided, the default number of students is 13.
-
-This project demonstrates my familiarity with the `volatile` modifier, `Atomic` classes, and the `Threads` class--fundamental Operating System concepts.
 
 ## Logic
 
